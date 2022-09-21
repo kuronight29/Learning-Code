@@ -4,7 +4,7 @@ using namespace std;
  
 int main () {
   // Creating variables
-  int myNum = 5;               // Integer (whole number)
+  int myNum = 5;               // Số nguyên
   float myFloatNum = 5.99;     // Floating point number
   double myDoubleNum = 9.98;   // Floating point number
   char myLetter = 'D';         // Character
